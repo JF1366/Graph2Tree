@@ -1,0 +1,6 @@
+gensim==3.8.1
+jieba==0.42.1
+numpy==1.18
+requests==2.22.0
+scipy==1.4.1
+nltk==3.8.1
